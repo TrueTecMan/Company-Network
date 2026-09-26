@@ -2,6 +2,8 @@
 # Full Company Network Model
 
 A comprehensive company network model built using **Cisco Packet Tracer**, featuring implemented security policies, isolated guest access, and role-based server permissions.
+![preview](./preview.png)
+
 
 ## Network Components
  **IT Department:** 4 Computers (Full access privileges)
@@ -10,7 +12,7 @@ A comprehensive company network model built using **Cisco Packet Tracer**, featu
  **Core & Routing Hardware:** 
   * 3560-24PS (Switch)
   * ISR4331 (Router)
-* **Backend Part:** 3 Servers
+* **Backend Part:** 3 Serversb
 * **Guest Network:** Isolated wireless network with internet access only
 Note:The Guest Network Password is 12345678
 
@@ -25,5 +27,3 @@ Note:The Guest Network Password is 12345678
 2. Sign in with your NetAcad/Cisco account.
 3. Download the `.pkt` file from this repository and open it to test the routing, connectivity, and security rules (ACLs/Permissions).
 
-## Preview
-![preview](./preview.png)
